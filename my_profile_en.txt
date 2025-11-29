@@ -1,0 +1,103 @@
+## My Writing Style and Tone
+I aim for a tone that is professional, confident, and direct, but also approachable. I prefer to use active voice and clear, concise sentences that focus on results.
+
+## Example of my writing: "In Octasys, in Guud Consulting, and throughout my university studies, I worked on several projects using different technologies. This strengthened my adaptability and allowed me to gain solid experience in TypeScript and frameworks such as React, Angular, Vue.js, and Next.js. I’ve also developed proficiency in languages like Java, Python, and C, providing me with a broad foundation to adjust to the technical needs of each project and facilitating me the learning of other programming languages. 
+Beyond my technical career, I am actively involved with AIESEC in Germany. As a National Support Board consultant, I advise local vice presidents on the strategic development of international exchange programs. My work focuses on process optimization, knowledge management, and training, which has further developed my communication, problem-solving, and leadership skills. Previously, as Vice President in Karlsruhe, I led a multicultural team, planned strategic initiatives, coordinated external partnerships, and supported local talent development. These experiences taught me the value of structured working methods, responsibility, and cross-cultural collaboration—skills that continue to enrich my professional journey."
+
+## Example of Desired Summary: Reliable and solution-oriented Full-Stack Developer with a B.S. in Computer Science and a strong foundation in web applications, backend systems, and DevOps practices. Experienced in modern tech stacks including JavaScript, Vue.js, React, Node.js, .NET, and Azure DevOps. Proven ability to automate processes, scale platforms, and collaborate across international teams. Passionate about building secure, sustainable digital solutions. Comfortable working under Agile environments, with a structured and proactive approach to both technical challenges and stakeholder communication.
+
+## Cover Letter Paragraph (AI: opening)
+My name is [MY NAME], and while searching for the next step in my career, I came across the position as [POSITION] and immediately felt it was a strong match for my experience and goals. With a Bachelor’s degree in Computer Science and hands-on experience in full-stack development, I would like to apply for this exciting opportunity.
+
+## Cover Letter Paragraph (Static)
+At Octasys GmbH, I was responsible for identifying and resolving major issues in a TypeScript-based project, ultimately reducing the company's operational workload by 90% and improving both performance and user experience. Collaborating closely with backend developers, I helped design interactive components, optimized performance, and deepened my architectural understanding of the platform. This experience taught me the value of writing maintainable, scalable code—and the responsibility that comes with it.
+
+In my previous role at Guud Consulting, I developed web and mobile applications for client management using React and Node Js. One of my key achievements was designing a real-time booking system for a spa business, enabling staff to manage all operations within a single platform. Contributing from the design process till the deployment strengthened my ability to translate business requirements into functional applications and deepened my understanding of how individual features come together to create a fully integrated and functional system. 
+
+In Octasys, in Guud Consulting, and throughout my university studies, I worked on several projects using different technologies. This strengthened my adaptability and allowed me to gain solid experience in TypeScript and frameworks such as React, Angular, Vue.js, and Next.js. I’ve also developed proficiency in languages like Java, Python, and C, providing me with a broad foundation to adjust to the technical needs of each project and facilitating me the learning of other programming languages. 
+
+Beyond my technical career, I am actively involved with AIESEC in Germany. As a National Support Board consultant, I advise local vice presidents on the strategic development of international exchange programs. My work focuses on process optimization, knowledge management, and training, which has further developed my communication, problem-solving, and leadership skills. Previously, as Vice President in Karlsruhe, I led a multicultural team, planned strategic initiatives, coordinated external partnerships, and supported local talent development. These experiences taught me the value of structured working methods, responsibility, and cross-cultural collaboration—skills that continue to enrich my professional journey.
+
+## Cover Letter Paragraph (AI: closing)
+I am constantly seeking new challenges and opportunities for growth, and I see [COMPANY] as the ideal place to take my next step. I would love to discuss how my skills and experience align with your goals. Please let me know a convenient time for us to connect.
+
+## Cover Letter Paragraph (Static)
+Thank you for your time and consideration. I look forward to your response.
+
+## Professional Summary
+
+Hi, I’m Emilio — a Software Engineer with international experience in Full-Stack development and a passion for creating technology that makes a positive impact.
+My professional background includes developing web and mobile applications using technologies like TypeScript, Node.js, Vue, React, .NET, and SQL databases. I’ve worked in both startups and structured environments, leading the implementation of solutions that improved efficiency and user experience — including accessibility platforms and real-time booking systems. I’ve also contributed to social and environmental impact projects such as platforms for nonprofits and the development of a virtual reality simulator.
+Beyond my technical profile, I’ve grown in multicultural environments through my roles at AIESEC Germany, where I’ve led international teams and currently support the national board as a product consultant. These experiences have strengthened my communication, leadership, and collaboration skills — which I bring to every project I take on.
+Since a young age, I’ve been passionate about both technology and photography. Photography taught me to see the world through a design lens — a perspective that now drives my interest in creating user-centered frontends, immersive game experiences, and well-crafted digital products.
+
+## Key Technical Skills
+
+Programming Languages: JavaScript/Typescript, Python, SQL, C, C++, C#, Java, PHP, GO
+Frontend: React, Vue.js, Angular, Laravel, HTML/CSS, Unity
+Backend: Node.js, .NET, SQL Databases
+Tools: Agile / Scrum, CI/CD Pipelines, Docker, Azure DevOps, Linux, Git
+Other: UX/UI Design, Figma, ML, VR/AR, GitLab, GitHub
+Languages: Spanish (Native), English (C1), German (B2)
+Hobbies: Tennis, Hiking, Photography, Traveling, Intercultural events
+
+## Key Projects & Accomplishments
+
+Junior Software Developer at Octasys GmbH in Kelkheim, Germany from Aug 2024 to Oct 2024
+Streamlined deployment and expanded platform scalability
+• Created and maintained Azure DevOps CI/CD pipelines and necessary services (e.g., Docker Registry), software architecture updates, and ensured a test environment for testers increasing release frequency by 25%.
+• Onboarded 3 new employees to scale the platform from single‑state to multi‑agency use, as well as automating audits, reports, and compliance monitoring for faster and improved data accuracy by 95%.
+
+Software Developer Internship at Octasys GmbH in Kelkheim, Germany from Aug 2023 to Jul 2024
+Enhanced the client’s accessibility monitoring platform 
+• Designed and implemented new features in Vue.js for the frontend, .NET C# for the backend, and SQL Server for the databases, migrated legacy workflows to a full‑stack automated system, increasing operational efficiency by 50%
+• Assisted with software issues and conducted code reviews within an international team to resolve critical bugs, reducing the company’s workload by 90%.
+
+Full‑ Stack Developer at Guud Consulting in Mexico from Apr 2022 to Jun 2023
+Developed full‑stack solutions for client’s management 
+• Developed a Vue.js admin dashboard integrated with Node.js + PostgreSQL that optimized agenda management, reducing scheduling conflicts by 40% via real‑time calendar sync.
+• Launched a Xamarin app for clients, increasing booking conversions by 35% through real‑time availability updates.
+• Built a React project‑management system that completed client’s processes 78% faster with a Node.js Backend to handle monthly document uploads.
+• Developed a React‑Native app with offline‑first functionality, enabling access to update critical data without internet, reducing workflow interruptions by 90%.
+
+Academic project at Tecnológico de Monterrey for APAC QRO NGO. in Querétaro, Mexico from Feb 2022 to Jun 2022
+Management system 
+• Led the development of a Laravel‑based web application to reduce administrative workload, improving workflow efficiency across departments.
+• Applied the CMMI process model to enhance software consistency and maintainability.
+• Collaborated with stakeholders to ensure user‑focused functionality and alignment with organizational goals.
+
+Academic project at Karlsruhe University of Applied Sciences in Karlsruhe, Germany from Sep 2021 to Feb 2022
+VR Bike Project 
+• Built a VR cycling simulation in Unity/C#, integrating hardware sensors for real‑time interaction and speed synchronization.
+• Authored a research paper: “Speed synchronization in virtual reality bicycle simulator for tourism” (2023) to evaluate their user experience.
+
+Academic project at Tecnológico de Monterrey for Inverdana NGO in Querétaro, Mexico from Aug 2020 to Dec 2020
+Impact Platform 
+• Designed and deployed a React web platform to increase organizational visibility and user engagement.
+• Implemented structured data reporting to improve accuracy.
+• Delivered a tailored digital tool aligned with client’s mission and stakeholder needs.
+
+Academic project at Tecnológico de Monterrey in Querétaro, Mexico from Aug 2019 to Dec 2019
+Java ‑ Videogame development 
+• Developed a 2D video game using object‑oriented programming principles in Java.
+• Strengthened skills in gameplay design, UI, problem‑solving, and collaborative development workflows.
+
+## Career Goals
+My goal is to take on a role that allows me to contribute my technical skills while continuously learning and evolving, with the long-term ambition of advancing into a leadership position within the company.
+
+## Base Professional Experience (for LaTeX)
+This section links the placeholders in your .tex file to the base description of that job. The AI will read this and then rewrite it.
+
+---EXPERIENCE-BLOCK-JUNIOR-DEV---
+Created and maintained Azure DevOps CI/CD pipelines and necessary services (e.g., Docker Registry), software architecture updates, and ensured a test environment for testers increasing release frequency by 25%.
+Onboarded 3 new employees to scale the platform from single-state to multi-agency use, as well as automating audits, reports, and compliance monitoring for faster and improved data accuracy by 95%.
+
+---EXPERIENCE-BLOCK-INTERNSHIP-DEV---
+Designed and implemented new features in Vue.js for the frontend, .NET C# for the backend, and SQL Server for the databases, migrated legacy workflows to a full-stack automated system, increasing operational efficiency by 50%
+Assisted with software issues and conducted code reviews within an international team to resolve critical bugs, reducing the company's workload by 90%.
+
+---EXPERIENCE-BLOCK-FULLSTACK-DEV---
+Developed a Vue.js admin dashboard integrated with Node.js + PostgreSQL that optimized agenda management, reducing scheduling conflicts by 40% via real-time calendar sync.
+Launched a Xamarin app for clients, increasing booking conversions by 35% through real-time availability updates.
+Built a React project-management system that completed client's processes 78% faster with a Node.js Backend to handle monthly document uploads.
+Developed a React‑Native app with offline-first functionality, enabling access to update critical data without internet, reducing workflow interruptions by 90%.

@@ -1,0 +1,59 @@
+\documentclass[10.75pt, a4paper]{article}
+\usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{ragged2e}
+
+
+% --- Document Variables (Pandoc will fill these in) ---
+% \geometry{margin=1in}
+\geometry{top=0.5in, bottom=0.5in, left=0.8in, right=0.8in}
+\pagestyle{empty}
+
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue,
+    pdftitle={$title$},
+    pdfauthor={$author$}
+}
+
+\begin{document}
+
+% --- HEADER: Two-column layout ---
+\begin{minipage}[t]{0.48\textwidth}
+    \vspace{0pt}
+    \flushleft
+    % --- THIS IS THE ONLY CHANGE ---
+    % We now use a single, intelligently built placeholder
+    $company-block$
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \vspace{0pt}
+    \flushright
+    \textbf{$author-name$} \\
+    $author-street$ $author-city$ \\
+    $author-phone$ \\
+    $author-email$ \\
+    $date$
+\end{minipage}
+
+\flushleft
+% $date$
+
+\vspace{1\baselineskip}
+
+% \textbf{Application for the position of $job-title$}
+\textbf{$application-subject$}
+
+\vspace{1\baselineskip}
+
+$salutation$
+
+\justifying
+\hyphenpenalty 10000
+\sloppy
+$body$
+
+\end{document}

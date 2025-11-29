@@ -1,0 +1,105 @@
+## Mein Schreibstil und Ton
+Ich strebe einen Ton an, der professionell, selbstbewusst und direkt, aber auch zugänglich ist. Ich bevorzuge den Aktiv und klare, prägnante Sätze, die sich auf Ergebnisse konzentrieren.
+
+## Beispiel meines Schreibstils: "Sowohl bei Octasys, bei Guud Consulting, als auch während meines Informatikstudiums habe ich an vielseitigen Projekten mitgewirkt. Diese Erfahrungen haben mich gelehrt, flexibel mit unterschiedlichen Technologien umzugehen. Ich habe solide Kenntnisse im Umgang mit TypeScript und gängigen Frameworks wie React, Angular, Vue.js und Next.js. Auch mit Java, Python und C habe ich gearbeitet – Sprachen, die ich je nach Projektanforderung gezielt einsetzen kann.
+Neben meiner beruflichen Laufbahn engagiere ich mich ehrenamtlich bei AIESEC in Deutschland. Aktuell bin ich als Berater im National Support Board tätig, wo ich lokale Vizepräsident:innen bei der strategischen Entwicklung internationaler Austauschprogramme unterstütze. Mein Fokus liegt dabei auf Prozessoptimierung, Wissensmanagement und Training. Diese Rolle hat meine Kommunikationsfähigkeit gestärkt – insbesondere durch aktives Zuhören und lösungsorientiertes Denken. Zuvor habe ich als Vice President in Karlsruhe ein internationales, achtköpfiges  Team geleitet, Strategien geplant, Kooperationen koordiniert und lokale Talente gefördert. Diese Erfahrungen haben mein strukturiertes Arbeiten, mein Verantwortungsbewusstsein und meine interkulturelle Kompetenz geprägt – Eigenschaften, die ich auch in meine berufliche Arbeit einbringe."
+
+## Beispiel für die gewünschte Zusammenfassung
+Zuverlässiger und lösungsorientierter Full‑Stack‑Entwickler mit einem B.Sc. in Informatik und fundierter Erfahrung in der Entwicklung maßgeschneiderter Webanwendungen, Backendsysteme und DevOps‑Prozesse. Erfahren im Umgang mit modernen Technologien wie JavaScript, Vue.js, React, Node.js, PHP, Laravel und Azure DevOps. Nachweisliche Erfolge bei der Umsetzung von RESTful APIs in agilen Scrum‑Teams. Ich arbeite gerne teamorientiert in kreativen Agenturen mit Fokus auf Kundenlösungen. Internationale Erfahrung, strukturierte Arbeitsweise und ein starkes Engagement für benutzerzentrierte, nachhaltige Software zeichnen mich aus.
+
+## Anschreiben Absatz (AI: opening)
+Mein Name ist [MY NAME]. In meiner Suche nach einer neuen beruflichen Herausforderung bin ich auf Ihre/Eure Position als [POSITION], und durch weitere Recherche wurde es mir schnell klar, dass diese Position sehr gut zu meinen beruflichen Fähigkeiten und Interessen passt – daher bewerbe ich mich hiermit mit großer Freude.
+
+## Cover Letter Paragraph (Static)
+In meiner Position bei Octasys GmbH war ich verantwortlich für die Identifizierung und Behebung von Problemen in einem TypeScript-basierten Projekt. Dabei konnte ich die operative Arbeitslast im Unternehmen um 90% reduzieren und gleichzeitig Funktionalität und Nutzerfreundlichkeit deutlich verbessern. Durch die enge Zusammenarbeit mit Backend-Entwicklern und das Optimieren interaktiver Komponenten habe ich ein fundiertes Verständnis für performante und skalierbare Architekturen entwickelt. Dabei wurde mir bewusst, wie wichtig es ist, wartbaren und skalierbaren Code zu schreiben – und auch Verantwortung dafür zu übernehmen. 
+
+In meiner vorherigen Position bei Guud Consulting war ich für die Entwicklung von Web- und Mobile-Anwendungen für das Kundenmanagement mit React und Node.js zuständig. Ein zentraler Erfolg meiner Arbeit war die Konzeption eines Echtzeit-Buchungssystems für ein Spa-Unternehmen, das dem Team ermöglichte, sämtliche Abläufe über eine zentrale Plattform zu steuern. Von der ersten Idee bis hin zum Deployment war ich am gesamten Entwicklungsprozess beteiligt. Das hat mir nicht nur geholfen, geschäftliche Anforderungen besser in funktionierende Anwendungen zu übersetzen, sondern auch mein Verständnis dafür verstärkt, wie ein leistungsfähiges und vollständig integriertes System aus einzelnen Features entsteht. 
+
+Sowohl bei Octasys, bei Guud Consulting, als auch während meines Informatikstudiums habe ich an vielseitigen Projekten mitgewirkt. Diese Erfahrungen haben mich gelehrt, flexibel mit unterschiedlichen Technologien umzugehen. Ich habe solide Kenntnisse im Umgang mit TypeScript und gängigen Frameworks wie React, Angular, Vue.js und Node.js. Auch mit HTML 5, Java, Python und C++ habe ich gearbeitet – Sprachen, die ich je nach Projektanforderung gezielt einsetzen kann.
+
+Neben meiner beruflichen Laufbahn engagiere ich mich ehrenamtlich bei AIESEC in Deutschland. Aktuell bin ich als Berater im National Support Board tätig, wo ich lokale Vizepräsident:innen bei der strategischen Entwicklung internationaler Austauschprogramme unterstütze. Mein Fokus liegt dabei auf Prozessoptimierung, Wissensmanagement und Training. Zuvor habe ich als Vice President in Karlsruhe ein internationales, achtköpfiges  Team geleitet, Strategien geplant, Kooperationen koordiniert und lokale Talente gefördert. Diese Erfahrungen haben mein strukturiertes Arbeiten, meine Kommunikationsfähigkeit und lösungsorientiertes Denken sowie meine interkulturelle Kompetenz geprägt – Eigenschaften, die ich auch in meine berufliche Arbeit einbringe.
+
+## Anschreiben Absatz (AI: closing)
+Ich suche ein Umfeld, in dem ich wachsen, Verantwortung übernehmen und zur Entwicklung moderner Anwendungen beitragen kann. [COMPANY] überzeugt mich durch seinen technologischen Anspruch, die agile Arbeitsweise und die offene Unternehmenskultur. Ich würde mich sehr freuen, meine Kenntnisse und meine Motivation in Ihr Team einzubringen.
+
+## Cover Letter Paragraph (Static)
+Ich freue mich über die Möglichkeit, Sie in einem persönlichen Gespräch von mir zu überzeugen. Vielen Dank für Ihre Zeit und Ihre Überlegung.
+
+## Berufliches Profil
+
+Hallo, ich bin Emilio – ein Softwareentwickler mit internationaler Erfahrung in der Full-Stack-Entwicklung und einer Leidenschaft dafür, Technologien mit echtem Mehrwert zu gestalten.
+Beruflich entwickle ich Web- und Mobile-Anwendungen mit Technologien wie TypeScript, Node.js, Vue, React, .NET und SQL-Datenbanken. Ich habe sowohl in Start-ups als auch in strukturierten Umgebungen gearbeitet und dort Lösungen implementiert, die Effizienz und Benutzerfreundlichkeit deutlich verbessert haben – darunter barrierefreie Plattformen und Echtzeit-Buchungssysteme. Außerdem habe ich an sozialen und ökologischen Projekten mitgewirkt, z. B. für Non-Profit-Organisationen oder bei der Entwicklung eines virtuellen Reality-Simulators.
+Über meinen technischen Hintergrund hinaus habe ich durch meine Rollen bei AIESEC Deutschland in multikulturellen Umgebungen gearbeitet. Dort habe ich internationale Teams geleitet und unterstütze aktuell das nationale Board als Produktberater. Diese Erfahrungen haben meine Kommunikations-, Führungs- und Teamfähigkeiten gestärkt – Kompetenzen, die ich in jedes Projekt einbringe.
+Schon in jungen Jahren habe ich eine Leidenschaft für Technologie und Fotografie entwickelt. Die Fotografie hat mir eine neue Perspektive auf Gestaltung eröffnet – ein Blickwinkel, der heute meine Motivation prägt, nutzerzentrierte Frontends, interaktive Spielerlebnisse und durchdachte digitale Produkte zu entwickeln.
+
+## Technische Schlüsselkompetenzen
+
+Programmiersprachen: JavaScript/Typescript, Python, SQL, C, C++, C#, Java, PHP, GO
+Frontend: React, Vue.js, Laravel, HTML/CSS, Unity
+Backend: Node.js, .NET, SQL Databases
+Tools: Agile/Scrum, CI/CD Pipelines, Docker, Azure DevOps, Linux, Git
+Andere: UX/UI Design, Figma, ML, VR/AR, GitLab, GitHub
+Sprachen: Spanisch (Muttersprache), Englisch (C1), Deutsch (B2)
+Hobbies: Tennis spielen, Wandern, Fotografieren, Reisen, Interkulturelle Veranstaltungen
+
+## Wichtige Projekte & Erfolge
+
+Junior Software Entwickler bei Octasys GmbH in Kelkheim, Deutschland von August 2024 bis Oktober 2024
+Optimierte Bereitstellung und erweiterte Plattformskalierbarkeit 
+• Erstellung und Wartung von CI/CD‑Pipelines in Azure DevOps und notwendiger Services (z.B. Docker Registry), Aktualisierung der Softwarearchitektur und Einrichtung einer stabilen Testumgebung, wodurch die Release‑Frequenz um 25% erhöht wurde.
+• Einarbeitung von 3 neuen Mitarbeiter:innen, um die Plattform von Single‑State auf Multi‑Agency‑Nutzung zu skalieren, sowie Automatisierung von Audits, Berichten und Compliance‑Prozessen steigerte die Datenqualität auf 95%.
+
+Praktikant Software Entwickler bei Octasys GmbH in Kelkheim, Deutschland von August 2023 bis Juli 2024
+Verbesserung der Plattform zur Überwachung der Accesibility 
+• Konzeption und Implementation neuer Funktionen mit Vue.js, .NET C# und SQL Server, Ablösung manueller Verfahren durch ein automatisiertes Full‑Stack‑System, das die betriebliche Effizienz um 50% erhöhte.
+• Hilfestellung bei Softwareproblemen und Durchführung von Code‑Reviews in einem internationalen Team zur Behebung kritischer Fehler wodurch die Arbeitsbelastung des Unternehmens um 90 % reduziert wurde.
+
+Full‑Stack‑Entwickler bei Guud Consulting in Mexiko von April 2022 bis Juni 2023
+Entwickelte Full‑Stack‑Lösungen für das Management von Kunden. 
+• Entwicklung eines Vue.js‑Admin‑Dashboards mit Node.js + PostgreSQL; verbesserte Terminplanung mit Echtzeit‑Synchronisation – Reduktion von Planungsfehlern um 40%.
+• Einführung einer mobilen Xamarin‑App mit Echtzeitverfügbarkeit, was die Buchungskonversionen um 35% steigerte.
+• Aufbau einer React‑basierten Projektmanagementlösung mit Node.js‑Backend zur schnelleren Dokumentenverarbeitung – 78% schnellere Abwicklung von Kundenprozessen.
+• Entwicklung einer React‑Native‑App mit Offline‑First‑Funktionalität zur robusten Datenerfassung vor Ort; reduzierte Arbeitsunterbrechungen um 90%.
+
+Akademisches Projekt an der Tecnológico de Monterrey für APAC QRO. in Querétaro, Mexiko von Februar 2022 bis Juni 2022
+Managementsystem 
+• Entwicklung einer Webanwendung mit PHP Laravel zur Reduktion des Verwaltungsaufwands und Optimierung der Arbeitsabläufe.
+• Anwendung des CMMI‑Prozessmodells zur Verbesserung von Konsistenz und Wartbarkeit der Software.
+• Zusammenarbeit mit Stakeholdern zur Sicherstellung benutzerzentrierter Funktionen im Einklang mit den Zielen der Organisation.
+
+Akademisches Projekt an der Hochschule Karlsruhe Technik und Wirtschaft in Karlsruhe, Deutschland von September 2021 bis Februar 2022
+VR Bike Projekt 
+• Entwicklung einer VR‑Fahrradsimulator in Unity/C# mit Hardware‑Integration zur Synchronisation von Geschwindigkeit und Echtzeit.
+• Verfassen einer Forschungsarbeit (2023): Speed Synchronization in Virtual Reality Bicycle Simulator for Tourism zur Bewertung der Nutzererfahrung.
+
+Akademisches Projekt an der Tecnológico de Monterrey für Inverdana in Querétaro, Mexiko von August 2020 bis Dezember 2020
+Impact‑Plattform 
+• Entwicklung einer Webplattform mit React zur Erhöhung der Sichtbarkeit und Nutzerbindung einer Umweltorganisation.
+• Implementierung strukturierter Datenberichte zur Verbesserung der Reporting‑Genauigkeit.
+• Lieferung eines digitalen Tools, das auf die Ziele und Anforderungen des Kunden zugeschnitten war.
+
+Akademisches Projekt an der Tecnológico de Monterrey in Querétaro, Mexiko von August 2019 bis Dezember 2019
+Java ‑ Videospielentwicklung 
+• Entwicklung eines 2D‑Videospiels unter Anwendung objektorientierter Programmierprinzipien in Java.
+• Vertiefung der Kenntnisse in Game Design, UI, Problemlösung und Teamarbeit.
+
+## Karriereziele
+Mein Ziel ist es, eine Position zu übernehmen, in der ich meine technischen Fähigkeiten einbringen und mich gleichzeitig kontinuierlich weiterentwickeln kann – mit dem langfristigen Ziel, innerhalb des Unternehmens eine Führungsrolle zu übernehmen.
+
+## Basis-Berufserfahrung (für LaTeX)
+Dieser Abschnitt verknüpft die Platzhalter in Ihrer .tex-Datei mit der Basisbeschreibung der jeweiligen Stelle. Die KI liest dies und formuliert es dann neu.
+
+---EXPERIENCE-BLOCK-JUNIOR-DEV---
+Erstellung und Wartung von CI/CD-Pipelines in Azure DevOps und notwendiger Services (z.B. Docker Registry), Aktualisierung der Softwarearchitektur und Einrichtung einer stabilen Testumgebung, wodurch die Release-Frequenz um 25% erhöht wurde.
+Einarbeitung von 3 neuen Mitarbeiter:innen, um die Plattform von Single‑State auf Multi-Agency-Nutzung zu skalieren, sowie Automatisierung von Audits, Berichten und Compliance-Prozessen steigerte die Datenqualität auf 95%.
+
+---EXPERIENCE-BLOCK-INTERNSHIP-DEV---
+Konzeption und Implementation neuer Funktionen mit Vue.js, .NET C# und SQL Server, Ablösung manueller Verfahren durch ein automatisiertes Full-Stack-System, das die betriebliche Effizienz um 50% erhöhte.
+Hilfestellung bei Softwareproblemen und Durchführung von Code-Reviews in einem internationalen Team zur Behebung kritischer Fehler wodurch die Arbeitsbelastung des Unternehmens um 90 % reduziert wurde.
+
+
+---EXPERIENCE-BLOCK-FULLSTACK-DEV---
+Entwicklung eines Vue.js-Admin-Dashboards mit Node.js + PostgreSQL; verbesserte Terminplanung mit Echtzeit-Synchronisation – Reduktion von Planungsfehlern um 40%.
+Einführung einer mobilen Xamarin-App mit Echtzeitverfügbarkeit, was die Buchungskonversionen um 35% steigerte.
+Aufbau einer React-basierten Projektmanagementlösung mit Node.js-Backend zur schnelleren Dokumentenverarbeitung – 78% schnellere Abwicklung von Kundenprozessen.
+Entwicklung einer React-Native-App mit Offline-First-Funktionalität zur robusten Datenerfassung vor Ort; reduzierte Arbeitsunterbrechungen um 90%.
