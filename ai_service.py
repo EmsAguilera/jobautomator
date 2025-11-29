@@ -21,7 +21,7 @@ def clean_ai_response(text):
 def configure_ai():
     """Prompts for and configures the AI model."""
     try:
-        api_key = "AIzaSyC9l7mn97u0LbNIW2jd2FZupwZ8qoTRUNs" #input("Please enter your Google AI API key: ").strip()
+        api_key = API_KEY #input("Please enter your Google AI API key: ").strip()
         if not api_key:
             print("API key cannot be empty.")
             return None
